@@ -1,0 +1,15 @@
+{
+    "title": "Testing all the way",
+    "baseURL": "https:\/\/www.yahoo.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759123",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "yahoo.com"
+    }
+}
